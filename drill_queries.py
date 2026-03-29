@@ -1,3 +1,4 @@
+
 import sqlite3
 
 def top_departments(db_path):
